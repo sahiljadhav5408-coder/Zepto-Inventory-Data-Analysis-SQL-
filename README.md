@@ -5,7 +5,5 @@ An end-to-end Zepto E-Commerce Inventory Data Analysis project using MySQL. Expl
 
 
 ## Project Data Modeling
-![Uploading Zepto_Inventory_Data_Modeling.png…]()
-
 
 
